@@ -103,18 +103,18 @@ Average Price = Total Investment / Total Shares
 
 ## Roadmap
 
-This is the Version 1 (MVP) release: a focused, single-purpose calculator. See [`PLAN.md`](./PLAN.md) for the full product vision, including:
+This is the Version 1 (MVP) release: a focused, single-purpose calculator. Upcoming features:
 
-- **v1.1** — Copy result (`⌘C`), reset form (`⌘R`)
-- **v2** — Multiple buy calculator with an editable transaction list
-- **v3** — Average Down planner (how many lots to reach a target average)
-- **v4** — Profit target & break-even calculator (with fees)
-- **v5** — Stock symbol + calculation history
-- **v6** — Portfolio mode & summary
-- **v7** — Average Up / Down simulator with interactive planning
-- **v8** — Import/export portfolio (CSV/JSON)
-- **v9** — Dividend & yield calculator
-- **v10** — Complete Indonesian investor toolkit
+* Copy result (`⌘C`), reset form (`⌘R`)
+* Multiple buy calculator with an editable transaction list
+* Average Down planner (how many lots to reach a target average)
+* Profit target & break-even calculator (with fees)
+* Stock symbol + calculation history
+* Portfolio mode & summary
+* Average Up / Down simulator with interactive planning
+* Import/export portfolio (CSV/JSON)
+* Dividend & yield calculator
+* Complete Indonesian investor toolkit
 
 ## Tech Stack
 
